@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Semester_Project</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AddMovieForm - Copy %282%29.Designer.cs">
+      <DependentUpon>AddMovieForm.Designer.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="AddMovieForm - Copy %282%29.resx">
+      <DependentUpon>AddMovieForm.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="AddMovieForm - Copy - Copy.resx">
+      <DependentUpon>AddMovieForm - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="AddMovieForm - Copy.resx">
+      <DependentUpon>AddMovieForm.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

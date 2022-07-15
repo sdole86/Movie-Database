@@ -1,0 +1,30 @@
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\Semester Project.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\Semester Project.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\Semester Project.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\Semester Project.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\Semester Project.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\Semester Project.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester_Project.Form1.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.csproj.GenerateResource.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.genruntimeconfig.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester_Project.AddMovieForm.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester Project.csproj.CopyComplete
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester_Project.About.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester_Project.AddMovieForm - Copy (2).resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester_Project.AddMovieForm - Copy - Copy.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester_Project.AddMovieForm - Copy.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester_Project.UpdateMovieForm.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Semester Project\Semester Project\obj\Debug\netcoreapp3.1\Semester_Project.DeleteMovieForm.resources
